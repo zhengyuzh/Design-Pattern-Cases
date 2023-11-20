@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>DesignPatterns-Java-Examples</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>1. 简单工厂模式</module>
+        <module>2. 工厂方法模式</module>
+        <module>3. 抽象工厂模式</module>
+        <module>4. 建造者模式</module>
+        <module>5. 单例模式</module>
+        <module>6. 适配器模式</module>
+        <module>7. 桥接模式</module>
+        <module>8. 装饰模式</module>
+        <module>9. 外观模式</module>
+        <module>10. 享元模式</module>
+        <module>11. 代理模式</module>
+        <module>12.命令模式</module>
+        <module>13. 中介者模式</module>
+        <module>14. 观察者模式</module>
+        <module>15. 状态模式</module>
+        <module>16. 策略模式</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>
